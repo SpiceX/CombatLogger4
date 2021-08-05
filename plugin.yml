@@ -1,0 +1,10 @@
+name: CombatLogger4
+main: spice\combat\CombatLogger
+version: 1.0.0
+api: 4.0.0
+author: Spice
+
+permissions:
+  combat.cmd:
+    description: main permission command
+    default: op
